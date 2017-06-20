@@ -29,8 +29,8 @@ The latest version of this library can always be found at
 http://arduiniana.org.
 */
 
-#ifndef SoftwareSerial_h
-#define SoftwareSerial_h
+#ifndef SDISerial_h
+#define SDISerial_h
 
 #include <inttypes.h>
 #include <Stream.h>
